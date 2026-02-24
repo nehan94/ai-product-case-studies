@@ -1,23 +1,55 @@
-# AI Product Case Studies (Udacity-inspired, written in my own words)
+# Case Study 1 — Data-Driven Product Decision
 
-This repository contains AI product thinking artifacts and case studies based on learnings from the Udacity AI Product Manager Nanodegree.
+## 1) Context
+- Product / domain:
+- Users:
+- Business goal:
 
-**Important note:** These documents are **not Udacity templates** and do not include proprietary course content. They are **my own summaries and product thinking write-ups** created to demonstrate how I frame problems, define metrics, evaluate trade-offs, and plan iterations for AI-enabled products.
+## 2) Problem Statement
+What user problem are we solving?
+What is the business impact?
 
-## Contents
+## 3) Decision to Make
+What decision needed to be made?
 
-### Case Studies
-- [Case Study 1 — Data-Driven Product Decision](./case-studies/01-data-driven-decision.md)
-- [Case Study 2 — AI Solution Proposal](./case-studies/02-ai-solution-proposal.md)
+## 4) Data Available
+- Product analytics:
+- Funnel metrics:
+- Qualitative insights:
+- Operational data:
+- Constraints:
 
-### Frameworks
-- [AI Use Case Framing Checklist](./frameworks/ai-use-case-framing-checklist.md)
+## 5) Hypotheses
+- H1:
+- H2:
 
-## How to read these
-Each case study follows a consistent structure:
-- Problem and context
-- Data and constraints
-- Options considered and trade-offs
-- Metrics and success criteria
-- Risks (bias, privacy, reliability)
-- Iteration and rollout plan
+## 6) Metrics
+- Primary metric:
+- Guardrails:
+- Segment-level metrics:
+
+## 7) Options Considered
+### Option A
+Pros:
+Cons:
+Risks:
+
+### Option B
+Pros:
+Cons:
+Risks:
+
+## 8) Recommendation
+What was chosen and why?
+
+## 9) Execution Plan
+- MVP scope:
+- Instrumentation:
+- Experiment plan:
+
+## 10) Risks & Mitigations
+- Risk:
+- Mitigation:
+
+## 11) Learnings
+What would you improve next time?
